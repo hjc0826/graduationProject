@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 开发
 
 ```bash
@@ -28,3 +29,7 @@ npm run build:stage
 # 构建生产环境
 npm run build:prod
 ```
+=======
+# graduationProject
+姣曚笟璁捐
+>>>>>>> 59b54115521fe71ee3c19f6fa9c2090be87eea01
